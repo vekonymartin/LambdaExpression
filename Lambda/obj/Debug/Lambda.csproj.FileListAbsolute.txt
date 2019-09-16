@@ -1,0 +1,7 @@
+C:\Git\Github\LambdaExpression\Lambda\bin\Debug\Lambda.exe.config
+C:\Git\Github\LambdaExpression\Lambda\bin\Debug\Lambda.exe
+C:\Git\Github\LambdaExpression\Lambda\bin\Debug\Lambda.pdb
+C:\Git\Github\LambdaExpression\Lambda\obj\Debug\Lambda.csprojAssemblyReference.cache
+C:\Git\Github\LambdaExpression\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Git\Github\LambdaExpression\Lambda\obj\Debug\Lambda.exe
+C:\Git\Github\LambdaExpression\Lambda\obj\Debug\Lambda.pdb

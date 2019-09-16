@@ -10,6 +10,8 @@ namespace Lambda
     {
         static void Main(string[] args)
         {
+            Log.Logging("log.txt", "Hello Delegat World!");
+            Log.Numbers(100);
         }
     }
 }
